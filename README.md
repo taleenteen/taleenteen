@@ -7,7 +7,7 @@ Web Developer | Frontend-Dev
 New graduate
 
 * 🌍  I'm based in Bangkok, Thailand
-* ✉️  You can contact me at [kasarakikun@gmail.com](mailto:kasarakikun@gmail.com)
+* ✉️  You can contact me at [kasarakikun@gmail.com](mailto:teenpanuvit@gmail.com)
 * 🧠  I'm learning NextJS
 
 ### Skills
